@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "title": "Update Available📢",
   "subtitle": "Update Your Application immediately",
   "closeButton": false,
