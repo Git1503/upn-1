@@ -1,9 +1,14 @@
 {
-  "version": 32,
-  "title": "Update Available📢",
-  "subtitle": "Update Your Application immediately",
-  "closeButton": false,
-  "link": "https://play.google.com/store/apps/details?id=com.cms.epanchayat.mas"
+  
+"version": "2.1",
+"title": "Update Available!!",
+"NewVersion": "2.1",
+"downloadLink": "http//: t.me",
+"changeLogMessage": "Plz download the updated app",
+"negativebtn": "Cancel",
+"positivebtn": "Download ",
+"changelogTitle": "Changelogs"
+
 }
 
 
