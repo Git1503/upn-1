@@ -10,6 +10,12 @@
     "key": "ZYXWVU-654321",
     "expiry_date": "2026-01-15",
     "allow_offline": true
+  },
+  {
+    "device_id": "f47b48803806ec3c",
+    "key": "f47b48803806ec3c",
+    "expiry_date": "2025-07-31",
+    "allow_offline": false
   }
 ]
 
