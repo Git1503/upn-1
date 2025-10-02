@@ -1,14 +1,16 @@
-{
-  
-"version": "2.1",
-"title": "Update Available!!",
-"NewVersion": "2.1",
-"downloadLink": "http//: t.me",
-"changeLogMessage": "Plz download the updated app",
-"negativebtn": "Cancel",
-"positivebtn": "Download ",
-"changelogTitle": "Changelogs"
-
-}
+[
+  {
+    "device_id": "f47b48803806ec3c",
+    "key": "f47b48803806ec3c",
+    "expiry_date": "2025-12-31",
+    "allow_offline": false
+  },
+  {
+    "device_id": "9876543210fedcba",
+    "key": "ZYXWVU-654321",
+    "expiry_date": "2026-01-15",
+    "allow_offline": true
+  }
+]
 
 
