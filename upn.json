@@ -1,7 +1,7 @@
 [
   {
-    "device_id": "f47b48803806ec3c",
-    "key": "f47b48803806ec3c",
+    "device_id": "f47b48803806ec3",
+    "key": "f47b48803806ec3",
     "expiry_date": "2025-07-31",
     "allow_offline": false
   },
@@ -14,7 +14,7 @@
   {
     "device_id": "f47b48803806ec3c",
     "key": "f47b48803806ec3c",
-    "expiry_date": "2025-07-31",
+    "expiry_date": "2025-12-31",
     "allow_offline": false
   }
 ]
