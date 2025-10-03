@@ -1,22 +1,8 @@
-[
-  {
-    "device_id": "f47b48803806ec3",
-    "key": "f47b48803806ec3",
-    "expiry_date": "2025-07-31",
-    "allow_offline": false
-  },
-  {
-    "device_id": "9876543210fedcba",
-    "key": "ZYXWVU-654321",
-    "expiry_date": "2026-01-15",
-    "allow_offline": true
-  },
-  {
-    "device_id": "f47b48803806ec3c",
-    "key": "f47b48803806ec3c",
-    "expiry_date": "2025-12-31",
-    "allow_offline": false
-  }
-]
-
+{
+  "version": 7,
+  "title": "New Update Available",
+  "subtitle": "Update Your Application",
+  "closeButton": false,
+  "link": "https://t.me/FwDialogs"
+}
 
