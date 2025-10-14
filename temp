@@ -1,4 +1,16 @@
 {
-  "version": "1.1",
-  "title"
+  "devices": [
+    {
+      "key": "ABC123XYZ",
+      "deviceId": "1234567890abcdef",
+      "expiry": "14-10-2026",
+      "allowOffline": false
+    },
+    {
+      "key": "DEF789LMN",
+      "deviceId": "fedcba0987654321",
+      "expiry": "01-12-2025",
+      "allowOffline": false
+    }
+  ]
 }
