@@ -1,16 +1,14 @@
+[
 {
-  "devices": [
-    {
-      "deviceId": "1234567890abcdef",
-      "key": "ABC123XYZ",
-      "expiry": "14-10-2026",
-      "allowOffline": false
-    },
-    {
-      "deviceId": "bde1bac7aa98fbb4",
-      "key": "1234",
-      "expiry": "01-12-2025",
-      "allowOffline": false
-    }
-  ]
+  "deviceid": "ABC123XYZ456",        // Example device ID from JSON
+  "key": "MY_SECRET_KEY_2025",       // The key to validate in the app
+  "expiryDate": "31-12-2025",        // Expiry date in dd-MM-yyyy format
+  "allowOffline": true               // Whether offline activation is allowed
+},
+{
+  "deviceid": "bde1bac7aa98fbb4",        // Example device ID from JSON
+  "key": "2025",       // The key to validate in the app
+  "expiryDate": "31-12-2025",        // Expiry date in dd-MM-yyyy format
+  "allowOffline": true               // Whether offline activation is allowed
 }
+]
