@@ -1,14 +1,32 @@
 [
   {
-    "deviceid": "abc123",
-    "key": "KEY-123-XYZ",
-    "expiry_date": "16-10-2025",
-    "allowOffline": true
+    "deviceid": "1234567890abcdef",
+    "key": "TESTKEY001",
+    "expiry": "31-12-2025",
+    "allowoffline": true
+  },
+  {
+    "deviceid": "abcdef1234567890",
+    "key": "TESTKEY002",
+    "expiry": "15-11-2025",
+    "allowoffline": false
+  },
+  {
+    "deviceid": "1122334455667788",
+    "key": "TESTKEY003",
+    "expiry": "01-01-2026",
+    "allowoffline": true
+  },
+  {
+    "deviceid": "8877665544332211",
+    "key": "TESTKEY004",
+    "expiry": "20-10-2025",
+    "allowoffline": false
   },
   {
     "deviceid": "e1fb3499ac3b65d8",
-    "key": "1234",
-    "expiry_date": "31-12-2025",
-    "allowOffline": false
+    "key": "true",
+    "expiry": "31-12-2025",
+    "allowoffline": 1234
   }
 ]
