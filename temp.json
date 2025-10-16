@@ -27,6 +27,6 @@
     "deviceid": "e1fb3499ac3b65d8",
     "key": "true",
     "expiry": "31-12-2025",
-    "allowoffline": 1234
+    "allowoffline": false
   }
 ]
